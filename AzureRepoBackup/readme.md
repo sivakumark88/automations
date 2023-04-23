@@ -1,6 +1,6 @@
 _Pre-requisites:_
 
-1. Azure DevOps with Azure Pipelines to execute shell script. 
+1. Azure DevOps organisation with access to Azure repos and Azure Pipelines. 
 2. PAT(Personal Access Token) to access ADO.
 3. Service connection to Azure Subscription.
 4. Azure Storage account with Container created.
