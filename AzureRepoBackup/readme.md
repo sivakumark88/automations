@@ -10,7 +10,7 @@
 
 1. Make Azure DevOps rest API call to access the ADO.
    
-   ```https://dev.azure.com/<organisation_name>/_apis/git/repositories?api-version=6.1-preview.1```
+   ```https://dev.azure.com/<organisation_name>/_apis/projects?api-version=6.1-preview.1```
   
 2. Get all the Project information.
 
